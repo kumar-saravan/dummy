@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Welcome to My Laravel Project</title>
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 </head>
 <body>
 
