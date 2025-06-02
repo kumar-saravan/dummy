@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Tests\\Feature\\PageTest::test_about_page_returns_success_and_correct_view":0.039,"Tests\\Feature\\PostTest::test_post_index_displays_posts":0.054,"Tests\\Feature\\PostTest::test_post_store_creates_new_post_and_redirects":0.012,"Tests\\Feature\\PostTest::test_post_show_displays_correct_post":0.004}}
